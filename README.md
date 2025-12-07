@@ -34,10 +34,4 @@ The goal of the project is to help people better understand basic medical topics
 
 ---
 
-## 🚀 Installation & Setup
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/<your-username>/smartaid-platform.git
-cd smartaid-platform
